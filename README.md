@@ -1,4 +1,4 @@
-# Tool Pie Menu
+# Space Pie Tools
 
 Add A Pie Menu that overwrites your Space bar with tool pie to help switching tools easily
 
